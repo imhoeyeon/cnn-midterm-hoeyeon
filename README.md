@@ -1,0 +1,2 @@
+# midterm-fashion
+fashion-MINIST
